@@ -1,0 +1,10 @@
+{
+  "name": "training-plan",
+  "version": "1.0.0",
+  "description": "תוכנית אימון – אפליקציית ליווי לאימון כוח ביתי",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
